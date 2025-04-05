@@ -50,8 +50,8 @@ Ejemplo de tienda o e-commerce creado durante el curso "Desarrollo Web Completo 
 
 ## 📫 Cómo contactarme
 
-- 📧 Email: [hernanborrazas@gmail.com]
-- 💼 [LinkedIn](www.linkedin.com/in/facundo-borrazás)
+- 📧 Email: hernanborrazas@gmail.com
+- 💼 Linkedin: www.linkedin.com/in/facundo-borrazás
 
 ---
 
