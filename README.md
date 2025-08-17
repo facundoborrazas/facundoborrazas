@@ -22,23 +22,21 @@
 
 Aquí hay algunos proyectos en los que he trabajado:
 
-### [eMercado - E-commerce](https://facundoborrazas.github.io/)
+### [Goalify – Prototipo de App de Evaluación de Objetivos](https://github.com/facundoborrazas/obligatoriotallerjulio2025)  
+Proyecto desarrollado en el Taller de Desarrollo Web. Una pequeña aplicación que permite registrar y visualizar autoevaluaciones diarias de objetivos, con login persistente, filtros, informes de cumplimiento y mapa de usuarios por país.  
+Tecnologías: HTML, CSS, JavaScript, consumo de API REST
 
-![eMercado](https://img.shields.io/badge/-Proyecto%20eMercado-blue)
+### [Sistema de Gestión de Pasajes para Aerolínea](https://github.com/facundoborrazas/ObligatorioP2ORT)  
+En colaboración con Axel Bouvier, desarrollé un sistema completo en C# y ASP.NET MVC para simular la venta de pasajes: incluye altas, búsquedas, roles (cliente, administrador), autenticación, validación y modelado UML. Disponible en consola y versión web.  
+Tecnologías: C#, ASP.NET 8.0 MVC, Visual Studio, UML, Azure
 
-Proyecto final del curso Jóvenes a Programar 2022. Un e-commerce desarrollado desde una base mínima de código, implementando nuevas funcionalidades y desafíos adicionales. [Repositorio](https://github.com/facundoborrazas/facundoborrazas.github.io)
+### [eMercado – Proyecto Final E-Commerce (Jóvenes a Programar)](https://github.com/facundoborrazas/facundoborrazas.github.io)  
+E-commerce construido desde una base mínima como parte del curso Jóvenes a Programar 2022. Incluye funcionalidades progresivas, diseño responsive y desafíos opcionales.  
+Tecnologías: HTML, CSS, JavaScript, Bootstrap, responsive :contentReference[oaicite:2]
 
-### [ObligatorioP2 - Sistema de Reservas](https://github.com/facundoborrazas/ObligatorioP2)
-
-![ObligatorioP2](https://img.shields.io/badge/-Proyecto%20ObligatorioP2-green)
-
-Prototipo de sistema para la venta de pasajes de una aerolínea, desarrollado como parte de la materia Programación 2. [Repositorio](https://github.com/facundoborrazas/ObligatorioP2)
-
-### [FrontEnd Store](https://project02frontendstore.netlify.app/)
-
-![FrontEnd Store](https://img.shields.io/badge/-Proyecto%20FrontEnd%20Store-orange)
-
-Ejemplo de tienda o e-commerce creado durante el curso "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL". [Repositorio](https://github.com/facundoborrazas/FrontEnd_Store)
+### [One-page Festival de Música](https://github.com/facundoborrazas/Festival-de-Musica)  
+Prototipo de one-page para un festival musical creado durante un curso de desarrollo web. Incluye secciones como portada, lineup, galería y venta de boletos, todo con diseño responsive y uso de SASS.  
+Tecnologías: HTML, CSS, SASS, responsive
 
 ---
 
